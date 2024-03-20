@@ -1,11 +1,5 @@
 ## Olá! eu sou o Jerônimo 
 
-Here are some ideas to get you started:
-
-- 🔭  Hoje trabalho como editor de video
-- 🌱  Estou cursando Engenharia de Software
-- 😊 Pronouns: Ele/Dele
-
   <a href="https://github.com/JEROON1MO">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JEROONIMO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
